@@ -1,0 +1,60 @@
+C:\Users\ladis\OneDrive\Escritorio\PLAYGROUND\PLAYGROUND\bin\Debug\PLAYGROUND.exe.config
+C:\Users\ladis\OneDrive\Escritorio\PLAYGROUND\PLAYGROUND\bin\Debug\PLAYGROUND.exe
+C:\Users\ladis\OneDrive\Escritorio\PLAYGROUND\PLAYGROUND\bin\Debug\PLAYGROUND.pdb
+C:\Users\ladis\OneDrive\Escritorio\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.AssemblyReference.cache
+C:\Users\ladis\OneDrive\Escritorio\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.MyForm.resources
+C:\Users\ladis\OneDrive\Escritorio\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.Properties.Resources.resources
+C:\Users\ladis\OneDrive\Escritorio\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.GenerateResource.cache
+C:\Users\ladis\OneDrive\Escritorio\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.CoreCompileInputs.cache
+C:\Users\ladis\OneDrive\Escritorio\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.exe
+C:\Users\ladis\OneDrive\Escritorio\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.pdb
+C:\Users\f126a\Downloads\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\bin\Debug\PLAYGROUND.exe.config
+C:\Users\f126a\Downloads\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\bin\Debug\PLAYGROUND.exe
+C:\Users\f126a\Downloads\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\bin\Debug\PLAYGROUND.pdb
+C:\Users\f126a\Downloads\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.AssemblyReference.cache
+C:\Users\f126a\Downloads\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.MyForm.resources
+C:\Users\f126a\Downloads\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.Properties.Resources.resources
+C:\Users\f126a\Downloads\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.GenerateResource.cache
+C:\Users\f126a\Downloads\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.CoreCompileInputs.cache
+C:\Users\f126a\Downloads\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.exe
+C:\Users\f126a\Downloads\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.pdb
+\\Mac\Home\Downloads\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\bin\Debug\PLAYGROUND.exe.config
+\\Mac\Home\Downloads\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\bin\Debug\PLAYGROUND.exe
+\\Mac\Home\Downloads\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\bin\Debug\PLAYGROUND.pdb
+\\Mac\Home\Downloads\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.MyForm.resources
+\\Mac\Home\Downloads\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.Properties.Resources.resources
+\\Mac\Home\Downloads\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.exe
+\\Mac\Home\Downloads\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.pdb
+C:\Users\pacof\OneDrive\Escritorio\Grficacion y videojuegos\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\bin\Debug\PLAYGROUND.exe.config
+C:\Users\pacof\OneDrive\Escritorio\Grficacion y videojuegos\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\bin\Debug\PLAYGROUND.exe
+C:\Users\pacof\OneDrive\Escritorio\Grficacion y videojuegos\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\bin\Debug\PLAYGROUND.pdb
+C:\Users\pacof\OneDrive\Escritorio\Grficacion y videojuegos\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.AssemblyReference.cache
+C:\Users\pacof\OneDrive\Escritorio\Grficacion y videojuegos\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.MyForm.resources
+C:\Users\pacof\OneDrive\Escritorio\Grficacion y videojuegos\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.Properties.Resources.resources
+C:\Users\pacof\OneDrive\Escritorio\Grficacion y videojuegos\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.GenerateResource.cache
+C:\Users\pacof\OneDrive\Escritorio\Grficacion y videojuegos\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.CoreCompileInputs.cache
+C:\Users\pacof\OneDrive\Escritorio\Grficacion y videojuegos\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.exe
+C:\Users\pacof\OneDrive\Escritorio\Grficacion y videojuegos\PLAYGROUNDLAB\PLAYGROUND\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.pdb
+\\Mac\Home\Downloads\playground 2\PLAYGROUND\bin\Debug\PLAYGROUND.exe.config
+\\Mac\Home\Downloads\playground 2\PLAYGROUND\bin\Debug\PLAYGROUND.exe
+\\Mac\Home\Downloads\playground 2\PLAYGROUND\bin\Debug\PLAYGROUND.pdb
+\\Mac\Home\Downloads\playground 2\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\playground 2\PLAYGROUND\obj\x86\Debug\PLAYGROUND.MyForm.resources
+\\Mac\Home\Downloads\playground 2\PLAYGROUND\obj\x86\Debug\PLAYGROUND.Properties.Resources.resources
+\\Mac\Home\Downloads\playground 2\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\playground 2\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\playground 2\PLAYGROUND\obj\x86\Debug\PLAYGROUND.exe
+\\Mac\Home\Downloads\playground 2\PLAYGROUND\obj\x86\Debug\PLAYGROUND.pdb
+C:\Users\Frida\Pictures\playground 2\PLAYGROUND\bin\Debug\PLAYGROUND.exe.config
+C:\Users\Frida\Pictures\playground 2\PLAYGROUND\bin\Debug\PLAYGROUND.exe
+C:\Users\Frida\Pictures\playground 2\PLAYGROUND\bin\Debug\PLAYGROUND.pdb
+C:\Users\Frida\Pictures\playground 2\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.AssemblyReference.cache
+C:\Users\Frida\Pictures\playground 2\PLAYGROUND\obj\x86\Debug\PLAYGROUND.MyForm.resources
+C:\Users\Frida\Pictures\playground 2\PLAYGROUND\obj\x86\Debug\PLAYGROUND.Properties.Resources.resources
+C:\Users\Frida\Pictures\playground 2\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.GenerateResource.cache
+C:\Users\Frida\Pictures\playground 2\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.CoreCompileInputs.cache
+C:\Users\Frida\Pictures\playground 2\PLAYGROUND\obj\x86\Debug\PLAYGROUND.exe
+C:\Users\Frida\Pictures\playground 2\PLAYGROUND\obj\x86\Debug\PLAYGROUND.pdb
